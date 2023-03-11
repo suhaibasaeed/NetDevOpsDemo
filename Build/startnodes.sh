@@ -6,4 +6,4 @@ pip3 install nornir_netmiko
 pip3 install nornir_napalm
 pip3 install nornir_jinja2
 python3 ./Build/evesetup.py --topo /NetDevOpsLabTest.unl -u
-sleep 20
+sleep 260
